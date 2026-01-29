@@ -166,6 +166,7 @@ html, body {
   margin: 0;
   right: 40px;
   top: -3px;
+  cursor: pointer;
 }
 
 .theme-button-svg {
